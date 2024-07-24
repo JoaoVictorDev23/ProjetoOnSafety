@@ -1,0 +1,14 @@
+com\onsafety\backendPessoa\DTO\PessoaDTO.class
+com\onsafety\backendPessoa\Services\PessoaService.class
+com\onsafety\backendPessoa\Model\Pessoa.class
+com\onsafety\backendPessoa\Exception\ErrorResponse.class
+com\onsafety\backendPessoa\Exception\RequestsExceptionHandler.class
+com\onsafety\backendPessoa\Controllers\PessoaController.class
+com\onsafety\backendPessoa\Exception\NoFoundException.class
+com\onsafety\backendPessoa\ServicesImpl\PessoaServiceImpl.class
+com\onsafety\backendPessoa\BackendPessoaApplication.class
+com\onsafety\backendPessoa\Exception\AlreadyExistsException.class
+com\onsafety\backendPessoa\Exception\InvalidCPFException.class
+com\onsafety\backendPessoa\Util\CPF.class
+com\onsafety\backendPessoa\Util\CPFValidator.class
+com\onsafety\backendPessoa\Repository\PessoaRepository.class
