@@ -16,8 +16,7 @@ No Windows: Execute StartProject.bat.
 No Linux: Execute StartProject.sh.
 Alternativamente, você pode rodar o projeto usando Docker com o comando:
 
-bash
-Copiar código
+
 docker compose run --build
 Certifique-se de executar o comando na pasta raiz do projeto.
 
