@@ -1,7 +1,15 @@
 Projeto Angular + Spring Boot + MySQL para o Processo Seletivo da OnSafety.
 Este projeto consiste em um sistema que utiliza Angular para o front-end, Spring Boot  para o back-end e MySQL como banco de dados. Abaixo estão as instruções para rodar o projeto localmente e informações sobre a estrutura do sistema.
 
-Início Rápido
+*Pré-requisitos*
+Certifique-se de ter os seguintes softwares instalados em seu computador:
+
+*MySQL Server, indica-se usar a versão 8.0.39 (Certifique-se de que o servidor MySQL não está sendo executado na porta 3306 e que você está
+usando o usuário root com a senha admin)
+*Docker
+
+
+*Início Rápido*
 Para iniciar o projeto, você pode usar os scripts fornecidos:
 
 No Windows: Execute StartProject.bat.
